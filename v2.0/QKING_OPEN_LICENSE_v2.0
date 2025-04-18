@@ -1,0 +1,76 @@
+QKING OPEN LICENSE (QKOL) v2.0  
+Copyright (c) [YEAR] [ORIGINAL PUBLISHER]
+
+Permission is hereby granted, free of charge, to any person or organization ("You") obtaining a copy of this software and associated documentation (the “Software”), to use, modify, and distribute the Software under the terms below:
+
+1. Rights Granted  
+You are free to:
+- Use the Software for any purpose (personal, educational, commercial, etc.).
+- Modify the Software in whole or in part.
+- Use the Software in open or closed-source systems.
+- Distribute modified or unmodified copies non-commercially.
+- Create and sell plugins, extensions, or integrations for the Software once plugin support is available.
+- Combine this license with other licenses, as long as there is no conflict.
+
+2. Commercial Use Restrictions  
+You may NOT sell, license, or monetize the Software, modified or unmodified, without explicit, signed consent from the following contributors:
+
+a. If 10 or fewer individuals have modified or redistributed the Software:
+- The original publisher.
+- All individuals who have modified or republished the Software.
+
+b. If more than 10 contributors exist:
+- The original uploader.
+- The first five republishers.
+- The last four republishers (based on most recent distribution).
+
+All required individuals must provide verified digital or physical signatures confirming their consent.
+
+Monetization includes but is not limited to: direct sales, subscriptions, licensing fees, bundling within commercial products, paid API access, or any form of compensated distribution.
+
+3. Redistribution Requirements  
+Any public redistribution (whether source code, binaries, or derivative works) must:
+- Include an unaltered copy of this license.
+- Include the name and verified email address of the current uploader/publisher.
+- List all prior republishers’ verified emails if 10 or fewer contributors exist; otherwise, include:
+  - The original uploader.
+  - The first five republishers.
+  - The most recent four republishers.
+
+4. Attribution for Commercial Derivatives  
+If a modified version of the Software is sold or used commercially, you must:
+- Include verified email addresses of all required contributors as defined in Section 2.
+- Include the verified contact of the original publisher.
+- Obtain and clearly display signed permission (digital or physical) from all required contributors.
+- Retain and visibly include this license file with the product.
+
+5. Plugin Monetization Clause  
+You may create and sell independent plugins, extensions, or integrations that interact with the Software **without prior approval**, provided that:
+- The core Software is not bundled, altered, or sold in violation of this license.
+- The plugin or extension does not rely on distributing the Software itself for monetization.
+
+6. Third-Party Dependencies  
+This license does not apply to third-party libraries or dependencies used by the Software. Each remains governed by its own respective license (e.g., Flask, NumPy, etc.).
+
+7. Reuploading and Derivative Works  
+If you modify and republish the Software:
+- You must add your verified email address to the license.
+- If there are more than 10 total republishers, include only:
+  - The original uploader.
+  - The first five republishers.
+  - The last four republishers.
+
+8. Secondary Sales and Transfers  
+If you resell or redistribute a version of the Software that has been authorized for commercial sale:
+- You must follow all requirements for attribution and signature verification as outlined in Sections 2, 4, and 7.
+- You must create a new license file that includes your contact info and maintain all proof of original contributor consents.
+
+9. Liability Disclaimer  
+The original publisher and all contributors are not responsible for:
+- Any damages, data loss, or adverse outcomes resulting from the use, distribution, or resale of the Software.
+- Any legal consequences arising from unauthorized commercial use, misuse, or misinterpretation of this license.
+
+10. Contact for Commercial Permissions  
+To request permission for sale or commercial licensing, contact:
+📧 [CONTACT EMAIL]  
+👤 Original Publisher: [NAME OR HANDLE]
