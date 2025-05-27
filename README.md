@@ -5,7 +5,7 @@ The QKing licenses repository. The licenses are free to use. The UQKOL license i
 
 The following table provides a comparison of the features and clauses across different versions of the **QKING OPEN LICENSE (QKOL)**.
 
-| **Feature / Clause**                                | **QKOL v1.0**      | **QKOL v2.0**          | **QKOL v3.0**          | **QKOL v3.0 Limited** | **QKOL v3.0 Open**    | **QKOL v4.0**          | **QKOL v4 CE**          | **QKOL v4 BFE**          | **QKOL v4 BE**          |
+| **Feature / Clause**                                | **QKOL v1.0**      | **QKOL v2.0**          | **QKOL v3.0**          | **QKOL v3.0 Limited** | **QKOL v3.0 Open**    | **QKOL v4.0**          | **QKOL v4.0 CE**          | **QKOL v4.0 BFE**          | **QKOL v4.0 BE**          |
 |---------------------------------------------------|-------------------|-----------------------|-----------------------|-----------------------|-----------------------|-----------------------|-------------------------|-------------------------|-------------------------|
 | **Basic Usage Rights**                             | ✅                 | ✅                     | ✅                     | ✅                    | ✅                    | ✅                     | ✅                       | ✅                       | ✅                       |
 | Personal, educational, commercial use allowed     | ✅                 | ✅ (limited)           | ✅                     | ✅                    | ✅                    | ✅                     | ✅                       | ✅                       | ✅                       |
